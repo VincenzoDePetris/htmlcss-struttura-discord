@@ -75,3 +75,61 @@ section {
 .graybkg {
   background-color: rgb(182, 182, 182);
 }
+
+.big-box {
+  background-color: rgb(182, 182, 182);
+  height: 800px;
+}
+
+.green-box {
+  height: 90%;
+  background-color: green;
+  border: dotted black 2px;
+}
+
+.blackbkg1 {
+  background-color: black;
+  height: 500px;
+}
+
+.pink-col {
+  height: 450px;
+  width: 30%;
+  margin-top: -10px;
+  background-color: pink;
+  border: dotted black 2px;
+}
+
+.blue-col {
+  height: 450px;
+  width: 70%;
+  margin-top: -10px;
+  background-color: skyblue;
+  border: dotted black 2px;
+}
+
+.little-col {
+  height: 100%;
+  width: 25%;
+  border: dotted white 2px;
+}
+
+.blackbkg2 {
+  background-color: black;
+  margin-top: 1px;
+  padding-top: 10px;
+  align-items: flex-end;
+}
+
+.footersection {
+  background-color: aquamarine;
+  height: 80px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footerdiv {
+  background-color: palevioletred;
+  padding: 10px;
+  border: dotted black;
+}
