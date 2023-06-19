@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: aqua;
+}
+
+.flex {
+  display: flex;
+}
+
+section {
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  border: dotted black 2px;
+  background-color: goldenrod;
+  padding: 10px;
+}
+
+.logo,
+.login {
+  width: 25%;
+}
+
+.list {
+  width: 50%;
+  text-align: center;
+}
