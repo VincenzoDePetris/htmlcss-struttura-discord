@@ -37,3 +37,41 @@ section {
   width: 50%;
   text-align: center;
 }
+
+.login {
+  text-align: end;
+}
+
+.bluebkg {
+  background-color: blue;
+  height: 500px;
+}
+
+.single-box {
+  background-color: purple;
+  height: 400px;
+  border: dotted black 4px;
+  border-radius: 10px;
+}
+
+.column-div {
+  height: 500px;
+}
+
+.big-col {
+  height: 400px;
+  width: 65%;
+  background-color: skyblue;
+  border: dotted black 2px;
+}
+
+.small-col {
+  height: 400px;
+  width: 35%;
+  background-color: pink;
+  border: dotted black 2px;
+}
+
+.graybkg {
+  background-color: rgb(182, 182, 182);
+}
