@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background-color: aqua;
+  background-color: rgb(173, 216, 230);
   height: 100px;
 }
 
@@ -23,9 +23,10 @@ section {
 }
 
 .div-header {
-  background-color: goldenrod;
+  background-color: rgb(218, 165, 32);
   border: dotted black 2px;
   padding: 5px;
+  font-size: larger;
 }
 
 .logo,
@@ -43,12 +44,12 @@ section {
 }
 
 .bluebkg {
-  background-color: blue;
+  background-color: rgb(0, 0, 139);
   height: 500px;
 }
 
 .single-box {
-  background-color: purple;
+  background-color: rgb(238, 130, 238);
   height: 400px;
   border: dotted black 4px;
   border-radius: 10px;
@@ -61,7 +62,7 @@ section {
 .big-col {
   height: 400px;
   width: 65%;
-  background-color: skyblue;
+  background-color: rgb(30, 144, 255);
   border: dotted black 2px;
 }
 
@@ -73,22 +74,22 @@ section {
 }
 
 .graybkg {
-  background-color: rgb(182, 182, 182);
+  background-color: rgb(211, 211, 211);
 }
 
 .big-box {
-  background-color: rgb(182, 182, 182);
+  background-color: rgb(211, 211, 211);
   height: 800px;
 }
 
 .green-box {
   height: 90%;
-  background-color: green;
+  background-color: rgb(34, 139, 34);
   border: dotted black 2px;
 }
 
 .blackbkg1 {
-  background-color: black;
+  background-color: #23272a;
   height: 500px;
 }
 
@@ -96,7 +97,7 @@ section {
   height: 450px;
   width: 30%;
   margin-top: -10px;
-  background-color: pink;
+  background-color: rgb(240, 128, 128);
   border: dotted black 2px;
 }
 
@@ -104,7 +105,7 @@ section {
   height: 450px;
   width: 70%;
   margin-top: -10px;
-  background-color: skyblue;
+  background-color: rgb(32, 178, 170);
   border: dotted black 2px;
 }
 
@@ -115,7 +116,7 @@ section {
 }
 
 .blackbkg2 {
-  background-color: black;
+  background-color: #23272a;
   margin-top: 1px;
   padding-top: 10px;
   align-items: flex-end;
@@ -129,7 +130,7 @@ section {
 }
 
 .footerdiv {
-  background-color: palevioletred;
+  background-color: #ffb6c1;
   padding: 10px;
   border: dotted black;
 }
