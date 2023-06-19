@@ -4,24 +4,28 @@ body {
 
 header {
   background-color: aqua;
+  height: 100px;
+}
+
+section {
+  width: 70%;
+  margin: auto;
 }
 
 .flex {
   display: flex;
 }
 
-section {
-  width: 80%;
+.header-section {
   height: 100px;
-  margin: 0 auto;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
-div {
-  border: dotted black 2px;
+.div-header {
   background-color: goldenrod;
-  padding: 10px;
+  border: dotted black 2px;
+  padding: 5px;
 }
 
 .logo,
@@ -29,7 +33,7 @@ div {
   width: 25%;
 }
 
-.list {
+.link {
   width: 50%;
   text-align: center;
 }
